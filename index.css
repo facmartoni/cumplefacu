@@ -1,0 +1,36 @@
+.hero, .confirmation, .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 2rem;
+
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+}
+
+.confirmation a{
+    font-size: 1.5rem;
+}
+
+.faq {
+    margin-bottom: 2rem;
+}
+
+.photos{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.hero img {
+    margin: 0 auto;  
+}
+
+.footer{
+    margin-bottom: 0rem;
+}
+
+.footer img {
+    margin-bottom: -1rem;
+    width: 200px;
+}
